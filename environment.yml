@@ -6,3 +6,10 @@ dependencies:
   - ipykernel
   - voila
   - appmode
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - ipywidgets
+  - ipython
+  - fastf1
