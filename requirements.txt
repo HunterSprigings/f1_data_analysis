@@ -5,3 +5,5 @@ re
 seaborn
 ipywidgets
 voila
+fastf1
+random
